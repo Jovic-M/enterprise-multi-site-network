@@ -1,0 +1,21 @@
+#========================================
+# OS Temporary Files
+#========================================
+# Windows thumbnail & desktop caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+#========================================
+# Cisco Packet Tracer / Lab Temp Files
+#========================================
+# Ignore temporary lock files and autosaves if they appear
+*.tmp
+*.bak
