@@ -1,6 +1,4 @@
 ![Network Topology Diagram](Screenshot 2026-06-16 194343.png)
-
-
 # Enterprise Multi-Site Network Infrastructure & Routing Architecture
 
 ## 📌 Project Overview
